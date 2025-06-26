@@ -2,7 +2,11 @@
     text-decoration: none;
 }
 body{
-    background-color: blanchedalmond;
+   
+    background-repeat:no-repeat;
+   background-size: cover;
+    background-image: url(../asset/fresh-nature-leaves-pattern-background-design_1017-36618.jpg);
+    background-color: rgba(255, 235, 205, 0.434);
 }
 
 h1{
