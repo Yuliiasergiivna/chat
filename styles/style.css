@@ -4,4 +4,9 @@ body{
 
 h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(66, 14, 14);
+}
+img{
+    height: 200px;
+    width: auto;
 }
