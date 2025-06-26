@@ -1,8 +1,18 @@
+html{
+    text-decoration: none;
+}
 body{
     background-color: blanchedalmond;
 }
 
 h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(66, 14, 14);
+   
+    border: 1px solid rgb(252, 227, 158);
+}
+h2, h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(66, 14, 14);
 }
